@@ -1,0 +1,6 @@
+--8:32
+
+NoSQL Technology:
+- High scale database systems
+- It considers storing of graphs, images and documents 
+- 
